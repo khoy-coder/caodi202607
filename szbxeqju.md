@@ -41,3 +41,13 @@
 
 
 来源：服务器新闻内容库
+
+---
+
+## 延伸阅读
+
+- [内蒙古乌兰察布市发生一起落水事故 造成2人溺亡](https://github.com/khoy-coder/shenghuo202607/blob/main/cxjkzpel.md)
+- [国务院办公厅关于转发生态环境部等部门《群众身边水体保护治理行动方案》的通知](https://github.com/khoy-coder/yinyue202607/blob/main/sxnrfgzb.md)
+- [国务院办公厅转发生态环境部等部门《群众身边水体保护治理行动方案》](https://github.com/khoy-coder/ziran202607/blob/main/gcdlxizf.md)
+- [一图读懂 | 《群众身边水体保护治理行动方案》](https://github.com/khoy-coder/guangming202607/blob/main/catghmlr.md)
+
